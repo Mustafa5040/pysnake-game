@@ -7,7 +7,7 @@ Pygame-menu
 Sqlite-3
 
 # Requirements
-Python 3.x
+Python 3.x\n
 Pygame
 Pygame-menu
 Sqlite3
