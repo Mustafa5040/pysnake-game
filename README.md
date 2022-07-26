@@ -12,3 +12,7 @@ Pygame <br />
 Pygame-menu <br />
 Sqlite3 <br />
 (You can install libraries via PIP)
+
+# How To Play
+WASD or AXIS: Control the Snake. <br />
+Space: Pause Game.
